@@ -1,0 +1,5 @@
+numpy
+scipy
+opencv-python-headless
+tensorflow   # or ai-edge-litert / tflite-runtime (only needed for a .tflite model)
+pytest
